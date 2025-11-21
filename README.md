@@ -10,6 +10,8 @@
   </tr>
 </table>
 
+English | [简体中文](README.zh-CN.md)
+
 ## Why?
 
 - **Privacy**: Your videos stay on your device
